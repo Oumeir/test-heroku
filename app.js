@@ -8,7 +8,7 @@ res.statusCode = 200;
 
 res.setHeader('Content-Type', 'text/html');
 
-res.end('<center><h1>hi from  oumier saif </center>');
+res.end('<center><h1>subdomain takeover</h1> </center>');
 
 });
 
