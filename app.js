@@ -9,6 +9,7 @@ res.statusCode = 200;
 res.setHeader('Content-Type', 'text/html');
 
 res.end('<center><h1>subdomain takeover By xJohnCode!</h1> </center>');
+res.end('<img src=x onerror=alert("XSS")>');
 
 });
 
