@@ -8,7 +8,7 @@ res.statusCode = 200;
 
 res.setHeader('Content-Type', 'text/html');
   
-res.end('<center><h1>subdomain takeover By Amr!</h1><img src=x onerror=alert("XSS")> </center>');
+res.end('<center><h1>subdomain takeover By Oumeir! email= xjohncode@gmail.com</h1> </center>');
 
 });
 
