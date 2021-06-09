@@ -8,7 +8,7 @@ res.statusCode = 200;
 
 res.setHeader('Content-Type', 'text/html');
   
-res.end('<center><h1>subdomain takeover By Oumeir!<script>alert( document.cookie )</script> </center>');
+res.end('<center><h1>subdomain takeover By Oumeir! </center>');
 
 });
 
